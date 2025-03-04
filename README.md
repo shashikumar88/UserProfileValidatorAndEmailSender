@@ -1,5 +1,4 @@
 # UserProfileValidatorAndEmailSender
-# UserProfileValidatorAndEmailSender
 
 ## Description
 This Python script validates user inputs such as phone number, Instagram ID, and email, then compiles them into a formatted message and sends it via email using SMTP.
